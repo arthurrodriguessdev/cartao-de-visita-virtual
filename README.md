@@ -10,7 +10,7 @@ Este é um projeto simples que tem como principal objetivo, a criação de um ca
   
 ## Tecnologias
 
-- Linguagem: HTML e CSS
+- Linguagens: HTML e CSS
 - IDE sugerida: VS Code
 
 ## Autor
